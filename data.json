@@ -81,41 +81,41 @@
       "available_quantity": 10
     }
   ],
-  "categories": [
+  "latest_releases": [
     {
       "id": "1",
-      "Category_name": "Graphic Tees",
-      "category_banner": "https://culture-kings-us.imgix.net/files/180724_5x4s_upsidedownlogo_5x4_D_800x.jpg?v=1721327962&auto=compress,format"
+      "latest_name": "Graphic Tees",
+      "latest_banner": "https://culture-kings-us.imgix.net/files/180724_5x4s_upsidedownlogo_5x4_D_800x.jpg?v=1721327962&auto=compress,format"
     },
     {
       "id": "2",
-      "Category_name": "Hoodies",
-      "category_banner": "https://culture-kings.imgix.net/files/Category_5x4s_hoodies_5x4_D_800x.jpg?v=1718769033&auto=compress,format"
+      "latest_name": "Hoodies",
+      "latest_banner": "https://culture-kings.imgix.net/files/Category_5x4s_hoodies_5x4_D_800x.jpg?v=1718769033&auto=compress,format"
     },
     {
       "id": "3",
-      "Category_name": "Graphic Tees",
-      "category_banner": "https://culture-kings.imgix.net/files/Category_5x4s_graphic-tees_5x4_D_800x.jpg?v=1718769034&auto=compress,format"
+      "latest_name": "Graphic Tees",
+      "latest_banner": "https://culture-kings.imgix.net/files/Category_5x4s_graphic-tees_5x4_D_800x.jpg?v=1718769034&auto=compress,format"
     },
     {
       "id": "4",
-      "Category_name": "Graphic Tees",
-      "category_banner": "https://culture-kings.imgix.net/files/Category_5x4s_graphic-tees_5x4_D_800x.jpg?v=1718769034&auto=compress,format"
+      "latest_name": "Graphic Tees",
+      "latest_banner": "https://culture-kings.imgix.net/files/Category_5x4s_graphic-tees_5x4_D_800x.jpg?v=1718769034&auto=compress,format"
     },
     {
       "id": "5",
-      "Category_name": "Graphic Tees",
-      "category_banner": "https://culture-kings.imgix.net/files/Category_5x4s_graphic-tees_5x4_D_800x.jpg?v=1718769034&auto=compress,format"
+      "latest_name": "Graphic Tees",
+      "latest_banner": "https://culture-kings.imgix.net/files/Category_5x4s_graphic-tees_5x4_D_800x.jpg?v=1718769034&auto=compress,format"
     },
     {
       "id": "6",
-      "Category_name": "Graphic Tees",
-      "category_banner": "https://culture-kings.imgix.net/files/Category_5x4s_graphic-tees_5x4_D_800x.jpg?v=1718769034&auto=compress,format"
+      "latest_name": "Graphic Tees",
+      "latest_banner": "https://culture-kings.imgix.net/files/Category_5x4s_graphic-tees_5x4_D_800x.jpg?v=1718769034&auto=compress,format"
     },
     {
       "id": "7",
-      "Category_name": "Graphic Tees",
-      "category_banner": "https://culture-kings.imgix.net/files/Category_5x4s_graphic-tees_5x4_D_800x.jpg?v=1718769034&auto=compress,format"
+      "latest_name": "Graphic Tees",
+      "latest_banner": "https://culture-kings.imgix.net/files/Category_5x4s_graphic-tees_5x4_D_800x.jpg?v=1718769034&auto=compress,format"
     }
   ],
   "banners": [
@@ -192,6 +192,32 @@
       "user_password": "Admin@123",
       "user_role": "admin",
       "id": "0423"
+    }
+  ],
+  "categories": [
+    {
+      "id": "1",
+      "category_banner": "https://culture-kings-us.imgix.net/files/Logo-NewEra_800x.jpg?v=1614337594&auto=compress,format"
+    },
+    {
+      "id": "2",
+      "category_banner": "https://culture-kings-us.imgix.net/files/Logo-NewEra_800x.jpg?v=1614337594&auto=compress,format"
+    },
+    {
+      "id": "3",
+      "category_banner": "https://culture-kings-us.imgix.net/files/Logo-NewEra_800x.jpg?v=1614337594&auto=compress,format"
+    },
+    {
+      "id": "4",
+      "category_banner": "https://culture-kings-us.imgix.net/files/Logo-NewEra_800x.jpg?v=1614337594&auto=compress,format"
+    },
+    {
+      "id": "5",
+      "category_banner": "https://culture-kings-us.imgix.net/files/Logo-NewEra_800x.jpg?v=1614337594&auto=compress,format"
+    },
+    {
+      "id": "6",
+      "category_banner": "https://culture-kings-us.imgix.net/files/Logo-NewEra_800x.jpg?v=1614337594&auto=compress,format"
     }
   ]
 }
