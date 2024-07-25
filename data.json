@@ -135,31 +135,52 @@
   "insta_videos": [
     {
       "id": 1,
-      "video": "https://cdn.shopify.com/videos/c/vp/4cb780c74ff347e68eae5144c23f9b73/4cb780c74ff347e68eae5144c23f9b73.HD-720p-4.5Mbps-31149042.mp4"
+      "video": "https://cdn.shopify.com/videos/c/vp/4cb780c74ff347e68eae5144c23f9b73/4cb780c74ff347e68eae5144c23f9b73.HD-720p-4.5Mbps-31149042.mp4",
+      "image": "https://cdn.shopify.com/s/files/1/2114/6461/files/02050663-YB702_mens_000010.jpg?v=1718688003&width=80",
+      "description": "Lorem ipsum dolor sit amet consectetur",
+      "price": 390
     },
     {
       "id": 2,
-      "video": "https://cdn.shopify.com/videos/c/vp/72fc0b883d3a4aeb99e60678b01b97d3/72fc0b883d3a4aeb99e60678b01b97d3.HD-720p-4.5Mbps-30421766.mp4"
+      "video": "https://cdn.shopify.com/videos/c/vp/72fc0b883d3a4aeb99e60678b01b97d3/72fc0b883d3a4aeb99e60678b01b97d3.HD-720p-4.5Mbps-30421766.mp4",
+      "image": "https://cdn.shopify.com/s/files/1/2114/6461/files/01033578-YC808_default_0010.jpg?v=1720744859&width=80",
+      "description": "Lorem ipsum dolor sit amet consectetur",
+      "price": 390
     },
     {
       "id": 3,
-      "video": "https://cdn.shopify.com/videos/c/vp/a28c96dd31864fc69419f1f35fb7ed53/a28c96dd31864fc69419f1f35fb7ed53.HD-720p-4.5Mbps-31246792.mp4"
+      "video": "https://cdn.shopify.com/videos/c/vp/a28c96dd31864fc69419f1f35fb7ed53/a28c96dd31864fc69419f1f35fb7ed53.HD-720p-4.5Mbps-31246792.mp4",
+      "image": "https://cdn.shopify.com/s/files/1/2114/6461/files/01032133-YD009_default_0010.jpg?v=1708299611&width=80",
+      "description": "Lorem ipsum dolor sit amet consectetur",
+      "price": 390
     },
     {
       "id": 4,
-      "video": "https://cdn.shopify.com/videos/c/vp/5ffd87caffbe46649c7fc752b6212f0a/5ffd87caffbe46649c7fc752b6212f0a.HD-720p-4.5Mbps-31142244.mp4"
+      "video": "https://cdn.shopify.com/videos/c/vp/5ffd87caffbe46649c7fc752b6212f0a/5ffd87caffbe46649c7fc752b6212f0a.HD-720p-4.5Mbps-31142244.mp4",
+      "image": "https://cdn.shopify.com/s/files/1/2114/6461/files/01033522-YN200_default_0010.jpg?v=1718839550&width=80",
+      "description": "Lorem ipsum dolor sit amet consectetur",
+      "price": 390
     },
     {
       "id": 5,
-      "video": "https://cdn.shopify.com/videos/c/vp/1bb567d722da425bb4a59551e30fc922/1bb567d722da425bb4a59551e30fc922.HD-720p-4.5Mbps-31043145.mp4"
+      "video": "https://cdn.shopify.com/videos/c/vp/1bb567d722da425bb4a59551e30fc922/1bb567d722da425bb4a59551e30fc922.HD-720p-4.5Mbps-31043145.mp4",
+      "image": "https://cdn.shopify.com/s/files/1/2114/6461/files/02051013-YB295_mens_0010.jpg?v=1720734198&width=80",
+      "description": "Lorem ipsum dolor sit amet consectetur",
+      "price": 390
     },
     {
       "id": 6,
-      "video": "https://cdn.shopify.com/videos/c/vp/1bb567d722da425bb4a59551e30fc922/1bb567d722da425bb4a59551e30fc922.HD-720p-4.5Mbps-31043145.mp4"
+      "video": "https://cdn.shopify.com/videos/c/vp/1bb567d722da425bb4a59551e30fc922/1bb567d722da425bb4a59551e30fc922.HD-720p-4.5Mbps-31043145.mp4",
+      "image": "https://cdn.shopify.com/s/files/1/2114/6461/files/02050663-YB702_mens_000010.jpg?v=1718688003&width=80",
+      "description": "Lorem ipsum dolor sit amet consectetur",
+      "price": 390
     },
     {
       "id": 7,
-      "video": "https://cdn.shopify.com/videos/c/vp/1bb567d722da425bb4a59551e30fc922/1bb567d722da425bb4a59551e30fc922.HD-720p-4.5Mbps-31043145.mp4"
+      "video": "https://cdn.shopify.com/videos/c/vp/1bb567d722da425bb4a59551e30fc922/1bb567d722da425bb4a59551e30fc922.HD-720p-4.5Mbps-31043145.mp4",
+      "image": "https://cdn.shopify.com/s/files/1/2114/6461/files/01032938-YR318_default_0010.jpg?v=1719535317&width=80",
+      "description": "Lorem ipsum dolor sit amet consectetur",
+      "price": 390
     }
   ],
   "cart": [
