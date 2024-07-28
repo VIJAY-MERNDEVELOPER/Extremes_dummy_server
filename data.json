@@ -248,28 +248,7 @@
       "price": 390
     }
   ],
-  "cart": [
-    {
-      "id": "1",
-      "product_name": "Goat Crew X The Boys Homelander Vintage T-Shirt",
-      "product_brand": "Goat Crew ",
-      "product_image_1": "https://culture-kings.imgix.net/files/02051110-YB017_mens_00020.jpg?v=1721184176&fit=crop&w=360&h=450&auto=compress,format",
-      "product_image_2": "https://culture-kings.imgix.net/files/02051109-YB017_mens_00020.jpg?v=1721175298&fit=crop&h=1000&w=800&auto=compress,format",
-      "brand_logo": "https://culture-kings.imgix.net/files/02051109-YB017_mens_00020.jpg?v=1721175298&fit=crop&h=1000&w=800&auto=compress,format",
-      "product_price": 499,
-      "quantity": 10
-    },
-    {
-      "id": "1",
-      "product_name": "Goat Crew X The Boys Homelander Vintage T-Shirt",
-      "product_brand": "Goat Crew ",
-      "product_image_1": "https://culture-kings.imgix.net/files/02051110-YB017_mens_00020.jpg?v=1721184176&fit=crop&w=360&h=450&auto=compress,format",
-      "product_image_2": "https://culture-kings.imgix.net/files/02051109-YB017_mens_00020.jpg?v=1721175298&fit=crop&h=1000&w=800&auto=compress,format",
-      "brand_logo": "https://culture-kings.imgix.net/files/02051109-YB017_mens_00020.jpg?v=1721175298&fit=crop&h=1000&w=800&auto=compress,format",
-      "product_price": 499,
-      "quantity": 10
-    }
-  ],
+  "cart": [],
   "users": [
     {
       "user_id": "1",
